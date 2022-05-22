@@ -10,3 +10,6 @@ Website task for BlockchainUNN containing info about blockchainUNN community.
 # Web Technologies used
 html
 css
+
+## Thorn
+Not yet responsive.
